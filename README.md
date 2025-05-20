@@ -1,0 +1,2 @@
+# Automated-Endometriosis-Detection-Using-Histopathological-Image-Data-with-a-Hybrid-CNNRNN-Model
+This project focuses on automated endometriosis detection using a hybrid CNN-RNN (LSTM) model for classifying histopathological images. It categorizes endometrial tissues into NE, EP, EH, and EA, with further subtypes for NE and EH. The hybrid model captures spatial and sequential features, improving classification accuracy.
